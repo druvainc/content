@@ -1,4 +1,4 @@
-Centrally orchestrate ransomware response and recovery via API integrations and automated playbooks. This content pack will empower you to get back to normal faster after security incidents such as insider threats and ransomware attacks. 
+Centrally orchestrate ransomware response and recovery via API integrations and automated playbooks.  This content pack will empower you to get back to normal faster after security incidents such as insider threats and ransomware attacks. 
 
 This integration was integrated and tested with Public APIs available on Druva Public Cloud documented at https://developer.druva.com/
 
